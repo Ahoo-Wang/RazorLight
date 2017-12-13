@@ -4,13 +4,14 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <PackageId>RazorLight</PackageId>
-    <Title>RazorLight</Title>
-    <Version>2.0.0-alpha3</Version>
+    <PackageId>Ahoo.RazorLight</PackageId>
+    <Version>2.0.0-alpha4</Version>
     <Description>Use Razor to build your templates from strings / files / EmbeddedResources outside of ASP.NET MVC for .NET Core</Description>
-    <Authors>toddams</Authors>
+    <Authors>toddams ahoo</Authors>
     <PackageTags>RazorLight, razor, render, dotnet-core, dotnet, core, template-engine, email, emails</PackageTags>
-    <RepositoryUrl>https://github.com/toddams/RazorLight</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Ahoo-Wang/RazorLight</RepositoryUrl>
+    <Company>toddams ahoo</Company>
+    <Product>Ahoo.RazorLight</Product>
   </PropertyGroup>
   
   <ItemGroup>
